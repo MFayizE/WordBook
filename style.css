@@ -1,0 +1,38 @@
+body{
+    background: rgb(22,26,93);
+background: linear-gradient(90deg, rgba(22,26,93,1) 0%, rgba(17,19,65,1) 100%);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+
+}
+
+.card{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    border-radius: 20px;
+border: 0px;
+margin-top: 50px;
+}
+
+.wordtitle{
+    background: rgb(22,26,93);
+background: linear-gradient(90deg, rgba(22,26,93,1) 0%, rgba(17,19,65,1) 100%);
+border-radius: 10px;
+}
+.noun{
+    background-color: white;
+    color: #161a5d;
+    border-radius: 10px;
+}
+.sectitle{
+    color: gray;
+}
+
+.form-control{
+    border: 0px solid;
+}
+.btn-primary{
+    background-color:#161a5d;
+    color: white;
+    border: 1px solid #161a5d ;
+}
